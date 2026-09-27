@@ -1,5 +1,6 @@
 <h1> Hi 👋, I'm Imaan</h1>
-<h3> Student interested in coding and building useful stuff. Mostly just making things and seeing where it goes.</h3>
+<h3>  Student interested in coding and building useful stuff. 
+  Mostly just making things and seeing where it goes.</h3>
 
 - 📫 How to reach me **vex9011@gmail.com**
 
