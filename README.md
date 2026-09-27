@@ -1,16 +1,19 @@
-## Hi there 👋
+```sh
+$ whoami
+v1rtue
 
-<!--
-**imaan-jaman/imaan-jaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+$ cat role.txt
+Hi.
+```
 
-Here are some ideas to get you started:
+### `$ cat about.md`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Student interested in coding and building useful stuff. Mostly just making things and seeing where it goes.
+
+### `$ ls ~/projects`
+
+- ▸ [`dl-cli`](https://github.com/imaan-jaman/dl-cli) — Lightweight CLI media downloader — YouTube, TikTok, Instagram, Twitter, Spotify & 1000+ sites · ★ 1
+
+### `$ contact --list`
+
+→ [Ig](https://www.instagram.com/v1rtue98/)
